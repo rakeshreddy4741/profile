@@ -17,7 +17,7 @@ function Card() {
       <div className="card-body">
         <h2> Rakesh Reddy Vavilala</h2>
         <p >
-          Rakesh Reddy Vavilala is a Full Stack Developer with extensive experience in building high quality web applications.
+            Rakesh Reddy Vavilala is a Full Stack Developer with extensive experience in building high quality web applications.
         </p>
         <Skills skill={skillsList} />
       </div>
